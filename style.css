@@ -89,3 +89,17 @@ span {
 .social-networks {
     color: #fd7e14 !important;
 }
+
+ media-query {
+    max-width: 1024px;
+}
+
+.box {
+    background-color: darkgrey ;
+    width: 50%;
+    height: 350%;
+    float: right;
+    padding: 50px;
+    border: 5px solid gray;
+    margin: 0;
+}
