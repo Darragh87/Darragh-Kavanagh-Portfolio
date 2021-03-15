@@ -1,22 +1,40 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
  
- .top-container{
+
+ul{
+list-style-type: none;
+}
+
+.top-container{
     padding: 0px;
-    margin: 0;
     width: 100%;
-    color: #ff9900;
+    color: #fd7e14 !important;
     font-weight: bold;
     text-align: right;
     display: inline-block;
     margin-top: 0px;
+    margin-right: 1em;
+    vertical-align: top;
+    margin-bottom: 4px;
+    overflow: hidden;
+     margin-left: 0.5%;
+    margin-right: 0.5%;
 }
-
-#menu {
-    color: #ff9900;
-}
+ #menu { 
+    padding: 0px;
+    margin: 0;
+    width: 100%;
+    color: #fd7e14 !important;
+    font-weight: bold;
+    text-align: right;
+    margin-top: 0px;
+    margin-right: 1em;
+    float: right;
+    vertical-align: middle;
+     }
 
 body {
-    background-color: #999999;
+    background-color: #495057 !important;
 }
 
 h2 {
@@ -25,4 +43,49 @@ h2 {
     font-family: 'PT Sans Narrow', sans-serif;
     margin: 0px;
     padding: 0px;
+}
+
+.row {
+    padding: 0px;
+    margin: 0;
+    width: 100%;
+    font-weight: bold;
+    text-align: left;
+    display: inline-block;
+    margin-top: 0px;
+    margin-right: 1em
+
+}
+
+.center {
+    padding: 0px;
+    margin: 0;
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    margin-top: 0px;
+    margin-right: 1em
+}
+
+a:hoover {
+    background-color: #f8f9fa;
+
+}
+
+footer {
+    bottom : 0;
+    height : 20px;
+    margin-top : 20px;
+    width: 100%;
+    position: absolute;
+}
+
+span {
+    color: #fd7e14;
+    font-weight: 100%;
+}
+
+.social-networks {
+    color: #fd7e14 !important;
 }
