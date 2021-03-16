@@ -6,7 +6,7 @@ list-style-type: none;
 }
 
 .top-container{
-    padding: 0px;
+    padding: 10px;
     width: 100%;
     color: #fd7e14 !important;
     font-weight: bold;
@@ -17,7 +17,7 @@ list-style-type: none;
     vertical-align: top;
     margin-bottom: 4px;
     overflow: hidden;
-     margin-left: 0.5%;
+    margin-left: 0.5%;
     margin-right: 0.5%;
 }
  #menu { 
@@ -73,12 +73,13 @@ a:hoover {
 
 }
 
-footer {
+#footer {
     bottom : 0;
     height : 20px;
     margin-top : 20px;
     width: 100%;
-    position: absolute;
+    position: grid;
+    text-align: end;
 }
 
 span {
@@ -88,6 +89,7 @@ span {
 
 .social-networks {
     color: #fd7e14 !important;
+    text-align: end;
 }
 
  media-query {
@@ -96,10 +98,19 @@ span {
 
 .box {
     background-color: darkgrey ;
-    width: 50%;
-    height: 350%;
+    width: 35%;
     float: right;
-    padding: 50px;
+    padding: 20px;
     border: 5px solid gray;
     margin: 0;
+
+}
+
+}
+
+img {
+    width: 25px;
+    vertical-align: left;
+    border: 5px solid gray;
+    height: 45%;
 }
