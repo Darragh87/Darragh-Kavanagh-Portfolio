@@ -5,7 +5,7 @@
 ![Mockup]()
 
 Website presents Darragh's Kavanagh as a Full Stack Software Devoloper.
-Users will be able to see Darragh's work historty.
+Users will be able to see Darragh's work historty education and will be able to contact me via contact form.
 
 This project was built with HTML and CSS only. I will use a little bit of Bootstrap aswell.
 
@@ -14,7 +14,7 @@ This project was built with HTML and CSS only. I will use a little bit of Bootst
 ---
 
 
-## Table of contets
+# Table of contents
 
 - [UX](#ux)
     - [Portfolio Website](#portfolio-website)
@@ -87,4 +87,97 @@ I used Balsamiq Wireframes to create my wireframes.
 ![Wireframes]()
 
 
+## Surface
+
+### Colors
+
+Main Colours used in  project:
+* background color: #495057
+* font color: #ffffff
+* link color: #fd7e14
+* hoover color: #f8f9fa
+
+### Fonts
+
+* As a main font I used PT Sans Narrow, and a backup font sans-serif.
+
+### Image
+
+* I used The image from Linkedin (profile photo) and it is credited in credited in [credits](#credits)  section.
+
+[Back to Table of contents](#table-of-contents)
+
+# Features
+
+The website consists of 3 pages. All pages are accessible from the navigation menu.
+
+The website has the below features:
+
+## Navigation bar
+
+* #### Navigation bar is visible on the top right of each page.
+* Navigation scheme:
+
+    * On the right side there is three links . It contains:
+        * Home
+        * Resume
+        * Contact
+
+## Footer
+
+* Footer is on all pages. It consists of copright, download Cv and liks to social media which opens on a new tab.
+
+## Home
+
+* ### About me section
+
+    * About me includes an image on the left and a introduction about me about my professional background.
+
+## Resume
+
+* ### History of Me
+
+    * History of Me includes my education/work history and my projects/Profiles links and hightlights a few skills.
+
+## Contact
+
+* ### Contact form
+
+    * Contact form includes a form to contact me and my personal information and a image to the right.
+
+
+[Back to Table of contents](#table-of-contents)
+
+# Technology used
+
+### HTML5
+* As a structure language.
+
+### CSS
+* As a style language.
+
+### Bootstrap
+* Bootstrap@5.0.0 as a CSS framework to keep responsive.
+
+### Font Awesome
+* As a icon library for social links and software icons.
+
+### Google Fonts
+* As a font resource.
+
+### Github
+* To host my project in a remote location.
+
+### Gitpod
+* To deploy my project.
+
+### Balsamiq Wireframe
+* As a wireframe tool.
+
+
+[Back to Table of contents](#table-of-contents)
+
+# Testing
+
+I used Chrome developers tools throughout my project for testing and solving problems.
 

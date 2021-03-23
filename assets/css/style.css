@@ -98,17 +98,17 @@ span {
 
 .box {
     background-color: darkgrey ;
-    width: 35%;
+    width: 600px;
     float: right;
-    padding: 20px;
+    padding-right: 5%;
     border: 5px solid gray;
-    margin: 0;
-
+    margin: 50;
+    height: 1000%;
 }
 
 img {
-    width: 25px;
+    width: 600px;
     vertical-align: left;
-    border: 5px solid gray;
-    height: 45%;
+    height: 600%;
+    padding-left: 5%;
 }
