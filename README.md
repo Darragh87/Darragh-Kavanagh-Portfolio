@@ -30,10 +30,9 @@ This project was built with HTML and CSS only. I will use a little bit of Bootst
 - [Technology](#technology)
 - [Testing](#testing)
     - [Functionality testing](#functionality-testing)
-    - [Compatibilty testing](#compatibilty-testing)
-    - [Code Validation](#code-validation)
     - [User history testing](#user-history-testing)
     - [Issues found during site development](#issues-found-during-site-development)
+    - [Code Validation](#Code-Validation)
     - [Performance testing](#performance-testing)
 - [Deployment](#deployment)
 - [Credits](#credits)
@@ -179,5 +178,44 @@ The website has the below features:
 
 # Testing
 
+## Functionality testing
+
 I used Chrome developers tools throughout my project for testing and solving problems.
 
+## User history testing
+
+### Porfolio
+
+    - I would like to show off to new employer's my skills and work history. To show my managerial experience.
+        > My name, photo of myself and my skills with work history.
+
+    - I want employer's to know that I am l;ooking for a career change.
+        > a Career change from Retailo Management to Full Stack Software Devoloper.
+    
+    - I want potential employer's to contact me if they would like to hire me.
+        > They can contact me via contact form.
+
+
+---
+## Issues found during site development
+
+* ### Background Color - grey color set in CSS. Grey on Gitpod but not on Github.
+
+* ### Text not align to left of image.
+
+* ### Social media icons are standing and not side by side.
+
+
+
+---
+## Code Validation
+    At the end of the project I used two websites to validate the coding.
+
+    *[W3c CSS Validator](https://validator.w3.org/) to validate CSS
+    *[W3c CSS Validator](https://validator.w3.org/) to test HTML5
+
+
+[Back to Table of contents](#table-of-contents)
+
+---
+# Deployment
