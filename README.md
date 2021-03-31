@@ -219,3 +219,41 @@ I used Chrome developers tools throughout my project for testing and solving pro
 
 ---
 # Deployment
+
+My project was deployed on GitHub pages. I used Gitpod to commit all changes to GitHub and used pudh command to save changes on GitHub.
+
+To deploy my project:
+
+* Log into GitHub and click on my repository ([Darragh-Kavanagh-Porfolio](https://darragh87.github.io/Darragh-Kavanagh-Portfolio))
+> My site is published at https://darragh87.github.io/Darragh-Kavanagh-Portfolio/
+
+To run:
+
+* Log into GitHub and click on my repository ([Darragh-Kavanagh-Porfolio](https://darragh87.github.io/Darragh-Kavanagh-Portfolio))
+
+[Back to Table of contents](#table-of-contents)
+
+---
+# Credits
+
+
+* To complete my project I used Code Institute student template: [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
+
+* Ideas websites:
+
+    * [w3schools.com](https://www.w3schools.com)
+
+    * [getbootstrap.com/docs](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+[Back to Table of contents](#table-of-contents)
+
+---
+
+# Screeenshots
+
+## Project Screeenshots
+
+
+
+
+[Back to Table of contents](#table-of-contents)
