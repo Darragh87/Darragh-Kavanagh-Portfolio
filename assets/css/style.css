@@ -6,19 +6,11 @@ list-style-type: none;
 }
 
 .top-container{
-    padding: 10px;
-    width: 100%;
     color: #fd7e14 !important;
-    font-weight: bold;
-    text-align: right;
-    display: inline-block;
-    margin-top: 0px;
-    margin-right: 1em;
-    vertical-align: top;
-    margin-bottom: 4px;
-    overflow: hidden;
-    margin-left: 0.5%;
-    margin-right: 0.5%;
+    display: block;
+    width: 60px;
+    margin: 0;
+    padding: 0;
 }
  #menu { 
     padding: 0px;
@@ -106,9 +98,23 @@ span {
     height: 1000%;
 }
 
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 img {
-    width: 600px;
-    vertical-align: left;
-    height: 600%;
-    padding-left: 5%;
+    max-width: 200%;
+}
+
+.image {
+    flex-basis: 100%;
+    padding-right: 20%;
+}
+
+.text {
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 20px;
 }

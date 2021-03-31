@@ -243,6 +243,8 @@ To run:
 
     * [w3schools.com](https://www.w3schools.com)
 
+    * [w3docs.com](https://www.w3docs.com/snippets/css/how-to-vertically-align-text-next-to-an-image.html)
+
     * [getbootstrap.com/docs](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 [Back to Table of contents](#table-of-contents)
