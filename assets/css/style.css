@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
  
-
-ul{
-list-style-type: none;
+.nav justify-content-end {
+   color: #fd7e14 !important; 
 }
 
 .top-container{
@@ -12,21 +11,9 @@ list-style-type: none;
     margin: 0;
     padding: 0;
 }
- #menu { 
-    padding: 0px;
-    margin: 0;
-    width: 100%;
-    color: #fd7e14 !important;
-    font-weight: bold;
-    text-align: right;
-    margin-top: 0px;
-    margin-right: 1em;
-    float: right;
-    vertical-align: middle;
-     }
 
 body {
-    background-color: #495057 !important;
+    background-color: #a9a9a9 !important	;
 }
 
 h2 {
