@@ -104,6 +104,8 @@ Main Colours used in  project:
 
 * I used The image from Linkedin (profile photo) and it is credited in credited in [credits](#credits)  section.
 
+* I used image from coding website and it is credited in credited in [credits](#credits)  section.
+
 [Back to Table of contents](#table-of-contents)
 
 # Features
@@ -238,6 +240,10 @@ To run:
 
 
 * To complete my project I used Code Institute student template: [gitpod full template](https://github.com/Code-Institute-Org/gitpod-full-template)
+
+* image from [coding](https://hackernoon.com/10-free-python-programming-courses-for-beginners-to-learn-online-38312f3b9912)
+
+* image from [Linkedin](https://www.linkedin.com/in/darragh-kavanagh-8114a4181/)
 
 * Ideas websites:
 
