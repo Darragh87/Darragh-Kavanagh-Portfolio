@@ -1,8 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
  
+body {
+    background-color: #696969 !important	;
+}
+
 .nav justify-content-end {
    color: #fd7e14 !important; 
 }
+
 
 .top-container{
     color: #fd7e14 !important;
@@ -12,63 +17,24 @@
     padding: 0;
 }
 
-body {
-    background-color: #a9a9a9 !important	;
-}
 
 h2 {
-    color: #ffffff;
+    color: #000000;
     font-size: xx-large;
     font-family: 'PT Sans Narrow', sans-serif;
     margin: 0px;
     padding: 0px;
 }
 
-.row {
-    padding: 0px;
-    margin: 0;
-    width: 100%;
-    font-weight: bold;
-    text-align: left;
-    display: inline-block;
-    margin-top: 0px;
-    margin-right: 1em
-
-}
-
-.center {
-    padding: 0px;
-    margin: 0;
-    width: 100%;
-    font-weight: bold;
-    text-align: center;
-    display: inline-block;
-    margin-top: 0px;
-    margin-right: 1em
-}
-
-a:hoover {
-    background-color: #f8f9fa;
-
-}
-
-#footer {
+.footer {
     bottom : 0;
     height : 20px;
     margin-top : 20px;
     width: 100%;
     position: grid;
-    text-align: end;
-}
-
-span {
-    color: #fd7e14;
-    font-weight: 100%;
-}
-
-.social-networks {
+    text-align: center;
+    display: block;
     color: #fd7e14 !important;
-    text-align: end;
 }
 
  media-query {
