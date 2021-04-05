@@ -251,8 +251,12 @@ To run:
 
     * [w3docs.com](https://www.w3docs.com/snippets/css/how-to-vertically-align-text-next-to-an-image.html)
 
-    * [getbootstrap.com/docs](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+    * [getbootstrap.com/docs](https://getbootstrap.com/docs/5.0/getting-started/introduction)
 
+    * [fontawesome.com](https://fontawesome.com/start)
+
+    * [stackoverflow.com](https://stackoverflow.com)
+    
 [Back to Table of contents](#table-of-contents)
 
 ---

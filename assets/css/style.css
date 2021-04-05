@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
- 
+
 body {
-    background-color: #696969 !important	;
-}
+    background-color: #696969 !important;
 
 .nav justify-content-end {
    color: #fd7e14 !important; 
@@ -26,15 +25,16 @@ h2 {
     padding: 0px;
 }
 
-.footer {
+#footer {
     bottom : 0;
     height : 20px;
     margin-top : 20px;
     width: 100%;
-    position: grid;
+    position: absolute;
     text-align: center;
     display: block;
     color: #fd7e14 !important;
+    padding: 10px 10px 0px 10px;
 }
 
  media-query {
@@ -112,4 +112,37 @@ img {
     padding-left: 0px;
     margin-left: 20%;
     width: 100%;
+}
+
+
+#div1 {
+    top: 30%;
+    left: 20%;
+    position: absolute;
+    width: 50%;
+    height: 50%;
+}
+
+#div2 {
+    top: 55%;
+    left: 20%;
+    position: absolute;
+    width: 50%;
+    height: 50%;
+}
+
+#div3 {
+    top: 30%;
+    left: 60%;
+    position: absolute;
+    width: 50%;
+    height: 50%;
+}
+
+#div4 {
+    top: 65%;
+    left: 60%;
+    position: absolute;
+    width: 50%;
+    height: 50%;
 }
