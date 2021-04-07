@@ -25,12 +25,12 @@ h2 {
     padding: 0px;
 }
 
-#footer {
+footer {
     bottom : 0;
     height : 20px;
     margin-top : 20px;
     width: 100%;
-    position: absolute;
+    position: fixed;
     text-align: center;
     display: block;
     color: #fd7e14 !important;
