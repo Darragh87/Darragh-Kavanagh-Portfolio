@@ -2,6 +2,7 @@
 
 body {
     background-color: #696969 !important;
+    overflow-x: hidden;
 }
 
 #footer {
@@ -13,6 +14,8 @@ body {
     background-color: #a9a9a9;
 }
 <!------------------------------------------index>
+
+
 .boxed {
     border: 15px solid orange;
 }
@@ -34,17 +37,22 @@ img {
 
 
 <!------------------------------------------resume>
+
+.wrapper {
+    display:grid;
+}
+
 #div1 {
     top: 30%;
-    left: 30%;
+    left: 10%;
     position: absolute;
     width: 50%;
-    height: 50%;
+    height:50%;
 }
 
 #div2 {
     top: 55%;
-    left: 20%;
+    left: 10%;
     position: absolute;
     width: 50%;
     height: 50%;
@@ -52,16 +60,20 @@ img {
 
 #div3 {
     top: 30%;
-    left: 60%;
+    left: 55%;
     position: absolute;
     width: 50%;
     height: 50%;
 }
 
 #div4 {
-    top: 65%;
-    left: 60%;
+    top: 100%;
+    left: 55%;
     position: absolute;
     width: 50%;
     height: 50%;
+}
+
+ul {
+    list-style: none;
 }
