@@ -2,122 +2,22 @@
 
 body {
     background-color: #696969 !important;
-
-.nav justify-content-end {
-   color: #fd7e14 !important; 
 }
 
-
-.top-container{
-    color: #fd7e14 !important;
-    display: block;
-    width: 60px;
-    margin: 0;
-    padding: 0;
-}
-
-
-h2 {
-    color: #000000;
-    font-size: xx-large;
-    font-family: 'PT Sans Narrow', sans-serif;
-    margin: 0px;
-    padding: 0px;
-}
-
-footer {
-    bottom : 0;
-    height : 20px;
-    margin-top : 20px;
-    width: 100%;
+#footer {
+    color: #fd7e14;
     position: fixed;
-    text-align: center;
-    display: block;
-    color: #fd7e14 !important;
-    padding: 10px 10px 0px 10px;
-}
-
- media-query {
-    max-width: 1024px;
-}
-
-.box {
-    background-color: darkgrey ;
-    width: 600px;
-    float: right;
-    padding-right: 5%;
-    border: 5px solid gray;
-    margin: 50;
-    height: 1000%;
-}
-
-.container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.container {
-  border-radius: 5px;
-  background-color: #fd7e14;
-  padding: 20px;
-  width: 300px;
-  border: 15px solid orange;
-  padding: 50px;
-  margin: 20px;
-}
-
-input[type=submit] {
-  background-color: #696969;
-  color: #000000;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-input[type=text], select, textarea, 
-    html {
-      width: 100%;
-      padding: 12px;
-      border: 1px solid #000000;
-      border-radius: 4px;
-      box-sizing: border-box;
-      margin-top: 6px;
-      margin-bottom: 16px;
-      resize: vertical;
-      color: black;
-      background-color: #696969;
-}
-img {
-    max-width: 200%;
-}
-
-.image {
-    flex-basis: 100%;
-    padding-right: 20%;
-}
-
-.text {
-    font-size: 20px;
-    font-weight: bold;
-    padding-left: 0px;
-    background-color: #fd7e14 !important ;
-    border: 10 px #000000;
-    font-family: 'PT Sans Narrow', sans-serif;    
-}
-
-.image1 {
-    display: flex;
-    padding-left: 0px;
-    margin-left: 20%;
+    bottom: 0;
     width: 100%;
+    height: 25px; 
+    background-color: #a9a9a9;
 }
+<!------------------------------------------index>
 
-
+<!------------------------------------------resume>
 #div1 {
     top: 30%;
-    left: 20%;
+    left: 30%;
     position: absolute;
     width: 50%;
     height: 50%;
