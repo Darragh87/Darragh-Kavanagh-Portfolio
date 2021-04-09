@@ -207,6 +207,7 @@ I used Chrome developers tools throughout my project for testing and solving pro
 
 * ### Social media icons are standing and not side by side.
 
+* ### Footer bar i couldn't align social media links.
 
 
 ---
@@ -256,6 +257,8 @@ To run:
     * [fontawesome.com](https://fontawesome.com/start)
 
     * [stackoverflow.com](https://stackoverflow.com)
+
+    * [thesitewizard.com](https://www.thesitewizard.com/css/hide-images-on-mobile-website.shtml)
     
 [Back to Table of contents](#table-of-contents)
 
