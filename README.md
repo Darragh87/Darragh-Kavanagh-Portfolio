@@ -158,7 +158,7 @@ The website has the below features:
 * As a style language.
 
 ### Bootstrap
-* Bootstrap@5.0.0 as a CSS framework to keep responsive.
+* Bootstrap@4.6.0 as a CSS framework to keep responsive.
 
 ### Font Awesome
 * As a icon library for social links and software icons.
