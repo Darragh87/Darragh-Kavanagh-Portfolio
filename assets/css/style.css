@@ -5,3 +5,18 @@ body {
     background-color: #fff;
     overflow-x: none;
 }
+
+/* ---------------------------------------------- navbar */
+
+nav {
+    font-family: "Pragati Narrow", sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+/* ---------------------------------------------- footer */
+
+#footer-content {
+    font-family: "PT Sans", sans-serif ;
+    text-align: center;
+}
