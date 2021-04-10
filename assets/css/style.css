@@ -17,8 +17,8 @@ nav {
 /* ---------------------------------------------- footer */
 
 footer {
-    background-color: gainsboro;
-    max-height: 90px;
+    background-color: #DCDCDC;
+     max-height: 90px;
 }
 #footer-content {
     font-family: "PT Sans", sans-serif ;
@@ -31,16 +31,34 @@ footer {
     max-width: 25%;
 }
 
-.mr-3 {
+img {
+    width: 25%;
+    height: 25%;
+    padding-top: 25px ;
+}
+
+image {
     top: 15%;
     left: 10%;
     position: absolute;
     width: 15%;
-    height: 25%;
+    height: 25px;
+    border-radius: 25px;
 }
 
-.media-body {
+.boxed {
     box-align: left;
+    position: relative;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+h4 {
+    padding-top: 90px;
+    padding-left: 150%;
+    text-align: center;
 }
 
 #div1 {
@@ -50,6 +68,13 @@ footer {
     height:50%;
 }
 
+#div3 {
+   top: 55%;
+    left: 10%;
+    width: 50%;
+    height:50%;
+    vertical-align: right;
+}
 /* ---------------------------------------------- about me */
 
 #box {
@@ -63,9 +88,9 @@ h2 {
     padding: 2%;
 }
 
-img {
-    border-radius: 50%;
+.img {
     padding-left: 2%;
+    align-items: left;
 }
 
 p {
