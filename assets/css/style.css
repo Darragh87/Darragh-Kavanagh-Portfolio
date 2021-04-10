@@ -16,7 +16,60 @@ nav {
 
 /* ---------------------------------------------- footer */
 
+footer {
+    background-color: gainsboro;
+}
 #footer-content {
     font-family: "PT Sans", sans-serif ;
     text-align: center;
+}
+
+/* ---------------------------------------------- career */
+
+.media {
+    max-width: 25%;
+}
+
+image {
+    top: 70%;
+    left: 10%;
+    position: absolute;
+    width: 25%;
+    height: 25%;
+}
+
+/* ---------------------------------------------- about me */
+
+#div1 {
+    top: 70%;
+    left: 10%;
+    position: absolute;
+    width: 50%;
+    height:50%;
+}
+
+#div2 {
+    top: 100%;
+    left: 10%;
+    position: absolute;
+    width: 50%;
+    height: 50%;
+}
+
+#div3 {
+    top: 70%;
+    left: 55%;
+    position: absolute;
+    width: 50%;
+    height: 50%;
+}
+
+/* ---------------------------------------------- contact */
+
+h5 {
+    text-align: center;
+    color: #000000;
+    font-family:  "PT Sans", sans-serif;
+    font-weight: 200;
+    font-size: 25px;
 }
