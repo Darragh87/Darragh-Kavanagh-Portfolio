@@ -18,8 +18,9 @@ nav {
 
 footer {
     background-color: #DCDCDC;
-     max-height: 90px;
+     max-height: 72px;
 }
+
 #footer-content {
     font-family: "PT Sans", sans-serif ;
     text-align: center;
@@ -28,12 +29,27 @@ footer {
 /* ---------------------------------------------- career */
 
 .media {
-    max-width: 25%;
+    max-width: 200%;
+    max-height: 200%;
+    position: relative;
+    padding-top: 8%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 20px;
+    margin-left: 20px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.media-body {
+    text-align: center;
+    top: 140%;
 }
 
 img {
-    width: 25%;
-    height: 25%;
+    width: 15%;
+    height: 15%;
     padding-top: 25px ;
 }
 
@@ -66,14 +82,17 @@ h4 {
     left: 10%;
     width: 50%;
     height:50%;
+    float: left;
+}
+#div2 {
+    text-align: center;
 }
 
 #div3 {
-   top: 55%;
     left: 10%;
     width: 50%;
     height:50%;
-    vertical-align: right;
+    float: right;
 }
 /* ---------------------------------------------- about me */
 
